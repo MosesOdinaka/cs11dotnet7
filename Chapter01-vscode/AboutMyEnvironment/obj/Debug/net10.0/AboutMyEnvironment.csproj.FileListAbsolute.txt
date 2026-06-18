@@ -1,0 +1,15 @@
+/data/data/com.termux/files/home/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net10.0/AboutMyEnvironment
+/data/data/com.termux/files/home/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net10.0/AboutMyEnvironment.deps.json
+/data/data/com.termux/files/home/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net10.0/AboutMyEnvironment.runtimeconfig.json
+/data/data/com.termux/files/home/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net10.0/AboutMyEnvironment.dll
+/data/data/com.termux/files/home/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/bin/Debug/net10.0/AboutMyEnvironment.pdb
+/data/data/com.termux/files/home/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net10.0/AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+/data/data/com.termux/files/home/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net10.0/AboutMyEnvironment.AssemblyInfoInputs.cache
+/data/data/com.termux/files/home/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net10.0/AboutMyEnvironment.AssemblyInfo.cs
+/data/data/com.termux/files/home/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net10.0/AboutMyEnvironment.csproj.CoreCompileInputs.cache
+/data/data/com.termux/files/home/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net10.0/AboutMyEnvironment.sourcelink.json
+/data/data/com.termux/files/home/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net10.0/AboutMyEnvironment.dll
+/data/data/com.termux/files/home/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net10.0/refint/AboutMyEnvironment.dll
+/data/data/com.termux/files/home/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net10.0/AboutMyEnvironment.pdb
+/data/data/com.termux/files/home/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net10.0/AboutMyEnvironment.genruntimeconfig.cache
+/data/data/com.termux/files/home/cs11dotnet7/Chapter01-vscode/AboutMyEnvironment/obj/Debug/net10.0/ref/AboutMyEnvironment.dll
