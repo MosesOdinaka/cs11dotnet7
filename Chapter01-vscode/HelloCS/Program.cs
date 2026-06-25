@@ -2,3 +2,5 @@
 Console.WriteLine("Hello, C#!");
 
 throw new Exception();
+
+int z;
