@@ -3,4 +3,7 @@
     <Project Path="Chapter01-vscode/AboutMyEnvironment/AboutMyEnvironment.csproj" />
     <Project Path="Chapter01-vscode/HelloCS/HelloCS.csproj" />
   </Folder>
+  <Folder Name="/Chapter02-vscode/">
+    <Project Path="Chapter02-vscode/Vocabulary/Vocabulary.csproj" />
+  </Folder>
 </Solution>
