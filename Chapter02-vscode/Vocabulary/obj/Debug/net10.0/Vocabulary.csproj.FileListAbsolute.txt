@@ -1,0 +1,5 @@
+/data/data/com.termux/files/home/cs11dotnet7/Chapter02-vscode/Vocabulary/obj/Debug/net10.0/Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+/data/data/com.termux/files/home/cs11dotnet7/Chapter02-vscode/Vocabulary/obj/Debug/net10.0/Vocabulary.AssemblyInfoInputs.cache
+/data/data/com.termux/files/home/cs11dotnet7/Chapter02-vscode/Vocabulary/obj/Debug/net10.0/Vocabulary.AssemblyInfo.cs
+/data/data/com.termux/files/home/cs11dotnet7/Chapter02-vscode/Vocabulary/obj/Debug/net10.0/Vocabulary.csproj.CoreCompileInputs.cache
+/data/data/com.termux/files/home/cs11dotnet7/Chapter02-vscode/Vocabulary/obj/Debug/net10.0/Vocabulary.sourcelink.json
